@@ -15,7 +15,7 @@ class HomeController extends Controller
     {
         $data = [
             'nama' => 'Muhammad Farel Ramadhan',
-            'nim' => '123456789',
+            'nim' => '241230037',
             'prodi' => 'Sistem Informasi',
             'kampus' => 'Universitas Muhammadiyah Pontianak'
         ];
@@ -26,8 +26,8 @@ class HomeController extends Controller
     public function kontak()
     {
         $kontak = [
-            'email' => 'farel@email.com',
-            'no_hp' => '08123456789',
+            'email' => 'farelrma1@email.com',
+            'no_hp' => '082131301992',
             'alamat' => 'Pontianak, Kalimantan Barat'
         ];
 
