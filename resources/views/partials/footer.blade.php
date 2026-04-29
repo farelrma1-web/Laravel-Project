@@ -1,7 +1,6 @@
 <footer class="bg-gray-800 text-white mt-10">
   <div class="container mx-auto p-6 grid grid-cols-1 md:grid-cols-3 gap-6">
     
-    <!-- Tentang -->
     <div>
       <h2 class="text-lg font-bold mb-2">Tentang Donasiku</h2>
       <p class="text-sm">
@@ -26,7 +25,7 @@
     <div>
       <h2 class="text-lg font-bold mb-2">Kontak</h2>
       <p class="text-sm">Email: info@donasiku.com</p>
-      <p class="text-sm">Telp: 0812-3456-7890</p>
+      <p class="text-sm">Telp: 0821-3130-1992</p>
     </div>
 
   </div>
