@@ -11,5 +11,6 @@
     <p>Kampus: {{ $kampus }}</p>
 
     <a href="/kontak">Ke Halaman Kontak</a>
+    <a href="/">Kembali ke Home</a>
 </body>
 </html>
