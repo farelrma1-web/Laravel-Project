@@ -12,5 +12,6 @@
     <p>Kampus: {{ $kampus }}</p>
 
     <a href="/kontak">Ke Kontak</a>
+    <a href="/home">Ke Home</a>
 </body>
 </html>

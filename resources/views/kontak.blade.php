@@ -11,5 +11,6 @@
     <p>Alamat: {{ $alamat }}</p>
 
     <a href="/profil">Ke Profil</a>
+    <a href="/home">Ke Home</a>
 </body>
 </html>
